@@ -1,0 +1,2 @@
+E:\new\bitbucket_LSTOUR_END_USER\obj\x86\Debug\LSTOUR_END_USER.vbproj.AssemblyReference.cache
+E:\new\bitbucket_LSTOUR_END_USER\obj\x86\Debug\LSTOUR_END_USER.vbproj.CoreCompileInputs.cache

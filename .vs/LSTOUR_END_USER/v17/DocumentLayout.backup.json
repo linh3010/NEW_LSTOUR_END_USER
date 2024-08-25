@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\new\\bitbucket_LSTOUR_END_USER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|e:\\new\\bitbucket_lstour_end_user\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|e:\\new\\bitbucket_lstour_end_user\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|e:\\new\\bitbucket_lstour_end_user\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{36B4E87F-9EEE-47FF-99F2-4778D9A665F9}|LSTOUR_END_USER.vbproj|solutionrelative:src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,19 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-25T02:57:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "home.component.ts",
               "DocumentMoniker": "E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.ts",
               "RelativeDocumentMoniker": "src\\app\\home\\home.component.ts",
               "ToolTip": "E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.ts",
               "RelativeToolTip": "src\\app\\home\\home.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-23T10:05:45.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "home.component.spec.ts",
               "DocumentMoniker": "E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.spec.ts",
               "RelativeDocumentMoniker": "src\\app\\home\\home.component.spec.ts",
@@ -79,7 +96,8 @@
               "RelativeToolTip": "src\\app\\home\\home.component.spec.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-23T10:05:42.588Z"
+              "WhenOpened": "2024-08-23T10:05:42.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,11 +109,12 @@
               "RelativeToolTip": "src\\app\\home\\home.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-23T10:05:41.571Z"
+              "WhenOpened": "2024-08-23T10:05:41.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "home.component.css",
               "DocumentMoniker": "E:\\new\\bitbucket_LSTOUR_END_USER\\src\\app\\home\\home.component.css",
               "RelativeDocumentMoniker": "src\\app\\home\\home.component.css",
@@ -103,7 +122,8 @@
               "RelativeToolTip": "src\\app\\home\\home.component.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-23T10:05:39.414Z"
+              "WhenOpened": "2024-08-23T10:05:39.414Z",
+              "EditorCaption": ""
             }
           ]
         }
